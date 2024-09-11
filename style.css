@@ -1,0 +1,571 @@
+.learntocodeh3 {
+  color: #fff4a3;
+  font-weight: 700;
+  font-size: 23px;
+  font-family: "Source Sans Pro", sans-serif;
+}
+.firstblock {
+  background-image: url("https://www.w3schools.com/images/background_in_space.webp");
+
+  max-width: auto;
+  height: 500px;
+}
+
+* {
+  font-family: "Source Sans Pro", sans-serif;
+}
+
+.contenHero {
+  width: 800px;
+  position: absolute;
+  left: 530px;
+}
+
+.learntocodeh1 {
+  color: white;
+  font-size: 70px;
+}
+
+input {
+  border-radius: 25px 0 0 25px;
+  width: 400px;
+  height: 47.5px;
+  border: 1px black solid;
+  padding: 12px;
+  text-align: center;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+#searchbutton2 {
+  position: relative;
+  border-radius: 0 25px 25px 0;
+  width: 100px;
+  background: #04aa6d;
+  color: white;
+  font-size: 17px;
+  border: 1px solid #282a35;
+  height: 48.5px;
+  right: 6px;
+  top: 1px;
+}
+
+img {
+  position: relative;
+  left: 600px;
+  bottom: 100px;
+  transition: 2s ease-in-out;
+}
+img:hover{
+  rotate: 35deg;
+  
+}
+a {
+  text-align: center;
+  padding: 110px;
+  margin-top: 10px;
+}
+
+.leftside {
+  position: absolute;
+  left: 350px;
+}
+.htmlexample {
+  position: absolute;
+}
+.htmlblock {
+  position: relative;
+  background-color: #d9eee1;
+  max-width: auto;
+  height: 500px;
+}
+
+.htmlblockh1 {
+  font-size: 50px;
+  font-weight: 700;
+  margin-top: -28px;
+  position: relative;
+  left: 45px;
+}
+.htmlblockh4 {
+  font-size: 19px;
+  margin-top: -28px;
+}
+
+#sndblockbuttons {
+  font-size: 18px;
+  margin: auto;
+
+  display: block;
+  width: 200px;
+  border-radius: 25px;
+  padding: 10px;
+  font-weight: 400;
+}
+.learnhtml {
+  background-color: #04aa6d;
+  border: 1px #04aa6d solid;
+  color: white;
+}
+
+.videotutorial {
+  background-color: #fff4a3;
+  border: 1px #fff4a3 solid;
+}
+
+.htmlreference {
+  background-color: #282a35;
+  border: 1px #282a35 solid;
+  color: white;
+}
+
+.getcertified {
+  background-color: #ffc0c7;
+  border: 1px #ffc0c7 solid;
+}
+
+.htmlexample {
+  position: relative;
+  background-color: #e7e9eb;
+  width: 400px;
+  height: 412px;
+  border: 1px #e7e9eb solid;
+  border-radius: 5px;
+  box-shadow: 5px 3px 10px -2px grey;
+  left: 800px;
+  top: 50px;
+  padding: 10px;
+}
+
+.innerbox {
+  position: relative;
+  background-color: white;
+  border-left: 5px greenyellow solid;
+  padding: 10px;
+}
+.tagcolor {
+  color: brown;
+}
+.attributecolor {
+  color: blue;
+}
+.htmlexampleh3 {
+  font-size: 24px;
+  font-weight: 400;
+}
+
+.tryityourself {
+  position: relative;
+  font-size: 18px;
+  margin: auto;
+  display: block;
+  width: 200px;
+  border-radius: 25px;
+  padding: 10px;
+  font-weight: 400;
+  background-color: #04aa6d;
+  right: 90px;
+  border: 1px #04aa6d solid;
+  margin-top: 14px;
+  color: white;
+}
+
+.cssblock {
+  width: auto;
+  height: 500px;
+  background-color: #fff4a3;
+  margin-top: -19px;
+}
+.csssideh1 {
+  font-size: 100px;
+  font-weight: 700;
+  position: relative;
+  left: 50px;
+  margin: 42px 0 -20px 0;
+}
+#cssblockbutton {
+  position: relative;
+  font-size: 18px;
+  margin: auto;
+  display: block;
+  width: 200px;
+  border-radius: 25px;
+  padding: 10px;
+  font-weight: 400;
+}
+.cssside {
+  position: absolute;
+  left: 350px;
+}
+.learncss {
+  background-color: #04aa6d;
+  border: 1px #04aa6d solid;
+  color: white;
+}
+.cssreference {
+  background-color: #282a35;
+  border: 1px #282a35 solid;
+  color: white;
+}
+.getcertifiedcss {
+  background-color: #ffc0c7;
+  border: 1px #ffc0c7 solid;
+}
+
+.cssexample {
+  position: relative;
+  background-color: #e7e9eb;
+  width: 400px;
+  height: 412px;
+  border: 1px #e7e9eb solid;
+  border-radius: 5px;
+  box-shadow: 5px 3px 10px -2px grey;
+  left: 800px;
+  top: 50px;
+  padding: 10px;
+}
+.innerboxcssexample {
+  position: relative;
+  background-color: white;
+  border-left: 5px greenyellow solid;
+  padding: 10px;
+  width: auto;
+  background-color: white;
+}
+.cssexampleh3 {
+  font-size: 24px;
+  font-weight: 400;
+}
+.javascriptblock {
+  position: relative;
+  background-color: #282a35;
+  width: auto;
+  height: 500px;
+  margin-top: 0;
+}
+.jssideh1 {
+  color: white;
+  font-size: 70px;
+  font-weight: 700;
+  left: 50px;
+  margin: 42px 0 40px 0;
+  text-align: center;
+}
+.jssideh3 {
+  color: white;
+  margin-bottom: 40px;
+  text-align: center;
+}
+.jsside {
+  position: absolute;
+  left: 350px;
+}
+.jsexample {
+  position: relative;
+  background-color: #e7e9eb;
+  width: 400px;
+  height: 412px;
+  border: 1px #e7e9eb solid;
+  border-radius: 5px;
+  box-shadow: 5px 3px 10px -2px grey;
+  left: 800px;
+  top: 50px;
+  padding: 10px;
+}
+#jsbuttons {
+  position: relative;
+  font-size: 18px;
+  margin: auto;
+  display: block;
+  width: 200px;
+  border-radius: 25px;
+  padding: 10px;
+  font-weight: 400;
+  right: 50px;
+}
+.innerboxjsexample {
+  position: relative;
+  background-color: white;
+  border-left: 5px greenyellow solid;
+  padding: 10px;
+  width: auto;
+  height: 180px;
+  background-color: white;
+  top: 30px;
+}
+
+.learnjs {
+  background-color: #04aa6d;
+  border: 1px #04aa6d solid;
+  color: white;
+}
+
+.jsreference {
+  background-color: white;
+  border: 1px white solid;
+}
+.getcertifiedjs {
+  background-color: #ffc0c7;
+  border: 1px #ffc0c7 solid;
+}
+.jsexampleh1{
+  font-size: 24px;
+  font-weight: 400;
+}
+
+.pythonblock {
+  position: relative;
+  background-color: #f3ecea;
+  width: auto;
+  height: 500px;
+  margin-top: 0;
+  
+}
+#pythonbuttons {
+  position: relative;
+  font-size: 18px;
+  margin: auto;
+  display: block;
+  width: 200px;
+  border-radius: 25px;
+  padding: 10px;
+  font-weight: 400;
+  right: 30px;
+}
+
+.learnpython {
+  background-color: #04aa6d;
+  border: 1px #04aa6d solid;
+  color: white;
+}
+.pythonreference {
+  background-color: #282a35;
+  border: 1px #282a35 solid;
+  color: white;
+}
+.psideh1 {
+  font-size: 70px;
+  font-weight: 700;
+  left: 50px;
+  margin: 42px 0 40px 0;
+  text-align: center;
+}
+.pside{
+  position: absolute;
+  left: 350px;
+}
+.pythonexample{
+  position: relative;
+}
+.pythonexampleinnerbox{
+  position: relative;
+}
+.pythonexample {
+  position: relative;
+  background-color: #e7e9eb;
+  width: 400px;
+  height: 412px;
+  border: 1px #e7e9eb solid;
+  border-radius: 5px;
+  box-shadow: 5px 3px 10px -2px grey;
+  left: 800px;
+  top: 50px;
+  padding: 10px;
+  
+}
+.pythonexampleh3{
+  font-size: 24px;
+  font-weight: 400;
+  text-align: center;
+}
+.pythonexampleinnerbox {
+  position: relative;
+  background-color: white;
+  border-left: 5px greenyellow solid;
+  padding: 10px;
+  width: auto;
+  height: 180px;
+  background-color: white;
+  top: 30px;
+}
+.pythonexampleh3{
+  font-size: 24px;
+  font-weight: 400;
+}
+.sqlblock{  
+  position: relative;
+  background-color: #96D4D4;
+  width: auto;
+  height: 500px;
+  margin-top: 0;
+
+}
+.sqlside{
+  position: absolute;
+  left: 350px;
+}
+#sqlbuttons {
+  position: relative;
+  font-size: 18px;
+  margin: auto;
+  display: block;
+  width: 200px;
+  border-radius: 25px;
+  padding: 10px;
+  font-weight: 400;
+  right: 30px;
+}
+
+.sqlexample{
+  position: relative;
+}
+.sqlexampleinnerbox{
+  position: relative;
+}
+.sqlexample {
+  position: relative;
+  background-color: #e7e9eb;
+  width: 400px;
+  height: 412px;
+  border: 1px #e7e9eb solid;
+  border-radius: 5px;
+  box-shadow: 5px 3px 10px -2px grey;
+  left: 800px;
+  top: 50px;
+  padding: 10px;
+}
+.innerboxsqlexample {
+  position: relative;
+  background-color: white;
+  border-left: 5px greenyellow solid;
+  padding: 10px;
+  width: auto;
+  height: 180px;
+  background-color: white;
+  top: 30px;
+}
+.learnsql {
+  background-color: #04aa6d;
+  border: 1px #04aa6d solid;
+  color: white;
+}
+.sqlreference {
+  background-color: #282a35;
+  border: 1px #282a35 solid;
+  color: white;
+}
+.sqlsideh1 {
+  font-size: 70px;
+  font-weight: 700;
+  margin: 42px 0 40px 0;
+  text-align: center;
+  
+}
+.sqlsideh3{
+  
+text-align: center;
+}
+
+.lastblock{
+  background-color: #282a35;
+  padding-top: 64px;
+  padding-bottom: 64px;
+  
+}
+.php{
+  
+  position: relative;
+  width: 475px;
+  color: black;
+  background-color: #FFC0C7;
+  padding: 24px;
+  text-align: center;
+  border-radius: 5px;
+  border: 1px #FFC0C7 solid;
+  margin: 50px;
+  box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12);
+}
+.jquery{
+  position: relative;
+  width: 475px;
+  color: black;
+  background-color: #FFF4A3;
+  padding: 24px;
+  text-align: center;
+  border-radius: 5px;
+  border: 1px #FFF4A3 solid;
+  margin: 50px;
+  box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12);
+}
+.java{
+  position: relative;
+  width: 475px;
+  color: black;
+  background-color: #F3ECEA;
+  padding: 24px;
+  text-align: center;
+  border-radius: 5px;
+  border: 1px #F3ECEA solid;
+  margin: 50px;
+  box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12);
+}
+.cpp{
+  position: relative;
+  width: 475px;
+  color: black;
+  background-color: #D9EEE1;
+  padding: 24px;
+  text-align: center;
+  border-radius: 5px;
+  border: 1px #D9EEE1 solid;
+  margin: 50px;
+  box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12);
+}
+.wcss{
+  position: relative;
+  width: 475px;
+  color: black;
+  background-color: #96D4D4;
+  padding: 24px;
+  text-align: center;
+  border-radius: 5px;
+  border: 1px #96D4D4 solid;
+  margin: 50px;
+  box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12);
+}
+.bootstrap{
+  position: relative;
+  width: 475px;
+  color: black;
+  background-color: #E7E9EB;
+  padding: 24px;
+  text-align: center;
+  border-radius: 5px;
+  border: 1px #E7E9EB solid;
+  margin: 50px;
+  box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12);
+}
+.lastblockh2{
+  font-size:45px;
+  font-weight:700;
+  
+}
+#lastblockbuttons{
+  background-color: #282a35;
+  color: white;
+  font-size: 18px;
+  /* margin: auto;
+    margin-bottom: auto;
+  display: block; */
+  width: 150px;
+  height: 40px;
+  border-radius: 25px;
+  border: 1px #282a35 solid;
+}
+.lastblockouterblocks{
+  display: inline-block;
+  position: relative;
+  left: 170px;
+}
